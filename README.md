@@ -14,6 +14,8 @@ This template equips you with a foundational Next.js application integrated with
 
 ## Step 1: Register a domain name using AWS Route 53
 
+## Step 2: Create a Website 
+
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
 
 ## Security
