@@ -1,4 +1,4 @@
-## AWS Amplify Next.js (App Router) Starter Template
+## Build a Static Website using AWS Cloud Services
 
 This repository provides a starter template for creating applications using Next.js (App Router) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
@@ -12,7 +12,7 @@ This template equips you with a foundational Next.js application integrated with
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
-## Deploying to AWS
+## Step 1: Register a domain name using AWS Route 53
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
 
